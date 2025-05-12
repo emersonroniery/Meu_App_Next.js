@@ -1,0 +1,1 @@
+# Meu_App_Next.js
